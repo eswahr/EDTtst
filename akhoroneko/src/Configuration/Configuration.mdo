@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="91e3ba50-8014-4222-a544-07ee9f3b620e">
+  <name>akhoroneko</name>
+  <synonym>
+    <key>ru</key>
+    <value>A.Khoroneko</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="8e5e14b7-c8cb-4cbd-9f70-12995193387e"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="5f69e665-97c5-46ac-b6ee-f0d43ce8fa0d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="5089aa86-d193-45eb-a0e2-914be20e703a"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="ef1e1af9-9b64-4f0a-a979-9480144c69af"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="82de8da4-4913-4dac-afc0-0ad29e686082"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="e3ea02db-6ae6-4c2e-af5a-12030b6085bc"/>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="d21c2393-272d-4801-8277-bed0e7ddd390">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+</mdclass:Configuration>
