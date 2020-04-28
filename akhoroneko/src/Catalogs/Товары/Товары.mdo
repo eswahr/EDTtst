@@ -47,6 +47,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="ef81e16a-497d-4118-8eea-1840a457fe5c">
+    <name>НаменованиеДляПечати</name>
+    <synonym>
+      <key>ru</key>
+      <value>Наменование для печати</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="4ff0679b-f108-4f18-a003-89c54e0ef8ba">
     <name>ФормаЭлемента</name>
     <synonym>
